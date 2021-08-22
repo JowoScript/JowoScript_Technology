@@ -1,5 +1,5 @@
 /*
- * <jowo.description>	JowoScript is cross platform, small size and faster ( build with 💓 ) - JowoScript Base on V8 JavaScript engine and ECMAScript
+ * <jowo.description>	JowoScript is cross platform, small size and faster ( build with 💓 ) - JowoScript Base on V8 JavaScript engine, WebAssembly engine and ECMAScript
  * <jowo.extension> 	Markup extension is <namespace>.JS or <namespace>.JOWO or <namespace>.J$ or <namespace>.JAWA
  * <jowo.copyright>		Copyright © 2021 JowoScript Technology
  * <jowo.version>		Version 0.1.0
