@@ -1,0 +1,184 @@
+/*
+ * <jowo.descriptionIconJS3>	JowoScript Icon is part a pattern jowoscript style sheet language used for describing the presentation of a icon written.
+ * <jowo.extensionJS3> 			Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
+ * <jowo.copyright>				Copyright © 2021 JowoScript Technology
+ * <jowo.versionJS3>			Version 0.0.1
+ * <jowo.author> 				Author Muhammad Nurcahyo Pratomo
+ * <jowo.founder> 				Founder Muhammad Nurcahyo Pratomo
+ *
+ * <jowo.license>				Licensed under privilege of author
+ */
+
+:root {
+	--*: inherit;	
+	--*:: inherit;
+	--*.*: inherit;
+	--*.c: inherit;	
+	--*.h: inherit;	
+	--*.dsp: inherit;	
+	--*.ts: inherit;
+	--*.j$: inherit;
+	--*.js: inherit;
+	--*.js3: inherit;
+	--*.json: inherit;
+	--*.jawa: inherit;
+	--*.jowo: inherit;
+	--*.java: inherit;
+	--*.class: inherit;
+	--*.apk: inherit;
+	--*.jar: inherit;
+	--*.rar: inherit;
+	--*.war: inherit;
+	--*.file: inherit;
+	--*.dll: inherit;
+	--*.php: inherit;
+	--*.go: inherit;
+	--*.kt: inherit;
+	--*.kts: inherit;
+	--*.ktm: inherit;
+	--*.py: inherit;
+	--*.zul: inherit;
+	--*.xml: inherit;
+	--*.htm: inherit;
+	--*.html: inherit;
+	--*.shtml: inherit;
+	--*.css: inherit;
+	--*.scss: inherit;
+	--font-family: "jowoscript-icon";
+	--font-weight: inherit;
+	--font-style: inherit;
+	--font-size: initial;
+    --text-rendering: auto;
+	--background: inherit;
+	--border-radius: inherit;
+	--margin: inherit;
+	--filter: none;
+}
+/* start pattern of settings global icon basic */
+.icon {
+	background: inherit;
+}
+/* end pattern of settings global basic */
+
+/* start pattern of cursor basic */
+.cursor-pointer {
+    cursor: pointer;
+}
+.cursor-normal {
+    cursor: default;
+}
+.cursor-crosshair {
+    cursor: crosshair;
+}
+.cursor-progress {
+    cursor: progress;
+}
+.cursor-resize-vertical {
+    cursor: e-resize;
+}
+.cursor-resize-horizontal {
+    cursor: n-resize;
+}
+.cursor-resize2-vertical, .cursor-resize-2-vertical {
+    cursor: col-resize;
+}
+.cursor-resize2-horizontal, .cursor-resize-2-horizontal {
+    cursor: row-resize;
+}
+.cursor-resize {
+    cursor: nwse-resize;
+}
+/* end pattern of cursor basic */
+
+/* start pattern of color basic */
+.icon-white {
+    color: white;
+}
+.icon-blue {
+    color: blue;
+}
+.icon-darkblue {
+    color: darkblue;
+}
+.icon-black {
+    color: black;
+}
+.icon-black {
+    color: black;
+}
+/* end pattern of color basic */
+
+/* start pattern of circle basic */
+.icon-circle {
+    border-radius: 100%;
+}
+/* end pattern of circle basic */
+
+/* start pattern of size basic */
+.icon-half, .icon-05x {
+    font-size: 50%;
+}
+.icon-2x, .icon-200x {
+    font-size: 200%;
+}
+.icon-3x, .icon-300x {
+    font-size: 300%;
+}
+.icon-4x, .icon-400x {
+    font-size: 400%;
+}
+.icon-5x, .icon-500x {
+    font-size: 500%;
+}
+.icon-6x, .icon-600x {
+    font-size: 600%;
+}
+.icon-7x, .icon-700x {
+    font-size: 700%;
+}
+/* end pattern of size basic */
+
+/* start pattern of position basic */
+.icon-rotation-45 {
+    transform: rotate(45deg);
+}
+.icon-rotation-90 {
+    transform: rotate(90deg);
+}
+.icon-rotation-180 {
+    transform: rotate(180deg);
+}
+.icon-rotation-270 {
+    transform: rotate(270deg);
+}
+.icon-symmetrical-horizontal-left {
+    transform: skewY(45deg);
+}
+.icon-symmetrical-horizontal-right {
+    transform: skewY(315deg);
+}
+.icon-symmetrical-vertical-left {
+    transform: skewX(45deg);
+}
+.icon-symmetrical-vertical-right {
+    transform: skewX(315deg);
+}
+.icon-position-horizontal {
+    transform: scale(-1, 1);
+}
+.icon-position-vertical {
+    transform: scale(1, -1);
+}
+/* end pattern of position basic */
+
+/* start pattern of unicode standart international */
+.icon-refresh:after {
+    content: "\1F5D8";
+}
+.icon-minimize:after {
+	content: "\1F5D5";
+}
+.icon-maximize:after {
+	content: "\1F5D6";
+}
+/* end pattern of unicode standart international */

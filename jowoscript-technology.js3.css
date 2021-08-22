@@ -1,0 +1,260 @@
+/*
+ * <jowo.descriptionJS3>	JowoScript Style Sheets is a pattern jowoscript style sheet language used for describing the presentation of a document written.
+ * <jowo.extensionJS3>		Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
+ * <jowo.copyright>			Copyright © 2021 JowoScript Technology
+ * <jowo.versionJS3>		Version 0.0.1
+ * <jowo.author>			Author Muhammad Nurcahyo Pratomo
+ * <jowo.founder>			Founder Muhammad Nurcahyo Pratomo
+ *
+ * <jowo.license>			Licensed under privilege of author
+ */
+ 
+:root {
+    --*: inherit;
+	--*:: inherit;
+	--*.*: inherit;
+	--*.c: inherit;	
+	--*.h: inherit;	
+	--*.dsp: inherit;	
+	--*.ts: inherit;
+	--*.j$: inherit;
+	--*.js: inherit;
+	--*.js3: inherit;
+	--*.json: inherit;
+	--*.jawa: inherit;
+	--*.jowo: inherit;
+	--*.java: inherit;
+	--*.class: inherit;
+	--*.apk: inherit;
+	--*.jar: inherit;
+	--*.rar: inherit;
+	--*.war: inherit;
+	--*.file: inherit;
+	--*.dll: inherit;
+	--*.php: inherit;
+	--*.go: inherit;
+	--*.kt: inherit;
+	--*.kts: inherit;
+	--*.ktm: inherit;
+	--*.py: inherit;
+	--*.zul: inherit;
+	--*.xml: inherit;
+	--*.htm: inherit;
+	--*.html: inherit;
+	--*.shtml: inherit;
+	--*.css: inherit;
+	--*.scss: inherit;
+}
+
+/* start pattern of document basic */
+*, *::before, *::after {
+	-webkit-box-align: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+jowo::before, jowo-view-code::before, jowo-view-html::before,
+jowo-a::before, jowo-abbr::before, jowo-acronym::before, jowo-address::before, jowo-applet::before, jowo-area::before, jowo-article::before, jowo-aside::before, jowo-audio::before, jowo-b::before, jowo-base::before,
+jowo-basefont::before, jowo-bdi::before, jowo-bdo::before, jowo-big::before, jowo-blockquote::before, jowo-body::before, jowo-br::before, jowo-button::before, jowo-canvas::before, jowo-caption::before, jowo-center::before,
+jowo-cite::before, jowo-code::before, jowo-col::before, jowo-colgroup::before, jowo-data::before, jowo-datalist::before, jowo-dd::before, jowo-del::before, jowo-details::before, jowo-dfn::before, jowo-dialog::before, jowo-dir::before,
+jowo-div::before, jowo-dl::before, jowo-dt::before, jowo-em::before, jowo-embed::before, jowo-fieldset::before, jowo-figcaption::before, jowo-figure::before, jowo-font::before, jowo-footer::before, jowo-form::before, jowo-frame::before,
+jowo-frameset::before, jowo-h1::before, jowo-h2::before, jowo-h3::before, jowo-h4::before, jowo-h5::before, jowo-h6::before, jowo-head::before, jowo-header::before, jowo-hr::before, jowo-html::before, jowo-i::before, jowo-iframe::before, jowo-img::before,
+jowo-input::before, jowo-ins::before, jowo-kbd::before, jowo-label::before, jowo-legend::before, jowo-li::before, jowo-link::before, jowo-main::before, jowo-map::before, jowo-mark::before, jowo-meta::before, jowo-meter::before, jowo-nav::before, 
+jowo-noframes::before, jowo-noscript::before, jowo-object::before, jowo-ol::before, jowo-optgroup::before, jowo-option::before, jowo-output::before, jowo-p::before, jowo-param::before, jowo-picture::before, jowo-pre::before, jowo-progress::before, 
+jowo-q::before, jowo-rp::before, jowo-rt::before, jowo-ruby::before, jowo-s::before, jowo-samp::before, jowo-script::before, jowo-section::before, jowo-select::before, jowo-small::before, jowo-source::before, jowo-span::before, jowo-strike::before, 
+jowo-strong::before, jowo-style::before, jowo-sub::before, jowo-summary::before, jowo-sup::before, jowo-svg::before, jowo-table::before, jowo-tbody::before, jowo-td::before, jowo-template::before, jowo-textarea::before, jowo-tfoot::before, jowo-th::before,
+jowo-thead::before, jowo-time::before, jowo-title::before, jowo-tr::before, jowo-track::before, jowo-tt::before, jowo-u::before, jowo-ul::before, jowo-var::before, jowo-video::before, jowo-wbr::before
+
+jowo::after, jowo-view-code::after, jowo-view-html::after,
+jowo-a::after, jowo-abbr::after, jowo-acronym::after, jowo-address::after, jowo-applet::after, jowo-area::after, jowo-article::after, jowo-aside::after, jowo-audio::after, jowo-b::after, jowo-base::after,
+jowo-basefont::after, jowo-bdi::after, jowo-bdo::after, jowo-big::after, jowo-blockquote::after, jowo-body::after, jowo-br::after, jowo-button::after, jowo-canvas::after, jowo-caption::after, jowo-center::after,
+jowo-cite::after, jowo-code::after, jowo-col::after, jowo-colgroup::after, jowo-data::after, jowo-datalist::after, jowo-dd::after, jowo-del::after, jowo-details::after, jowo-dfn::after, jowo-dialog::after, jowo-dir::after,
+jowo-div::after, jowo-dl::after, jowo-dt::after, jowo-em::after, jowo-embed::after, jowo-fieldset::after, jowo-figcaption::after, jowo-figure::after, jowo-font::after, jowo-footer::after, jowo-form::after, jowo-frame::after,
+jowo-frameset::after, jowo-h1::after, jowo-h2::after, jowo-h3::after, jowo-h4::after, jowo-h5::after, jowo-h6::after, jowo-head::after, jowo-header::after, jowo-hr::after, jowo-html::after, jowo-i::after, jowo-iframe::after, jowo-img::after,
+jowo-input::after, jowo-ins::after, jowo-kbd::after, jowo-label::after, jowo-legend::after, jowo-li::after, jowo-link::after, jowo-main::after, jowo-map::after, jowo-mark::after, jowo-meta::after, jowo-meter::after, jowo-nav::after, 
+jowo-noframes::after, jowo-noscript::after, jowo-object::after, jowo-ol::after, jowo-optgroup::after, jowo-option::after, jowo-output::after, jowo-p::after, jowo-param::after, jowo-picture::after, jowo-pre::after, jowo-progress::after, 
+jowo-q::after, jowo-rp::after, jowo-rt::after, jowo-ruby::after, jowo-s::after, jowo-samp::after, jowo-script::after, jowo-section::after, jowo-select::after, jowo-small::after, jowo-source::after, jowo-span::after, jowo-strike::after, 
+jowo-strong::after, jowo-style::after, jowo-sub::after, jowo-summary::after, jowo-sup::after, jowo-svg::after, jowo-table::after, jowo-tbody::after, jowo-td::after, jowo-template::after, jowo-textarea::after, jowo-tfoot::after, jowo-th::after,
+jowo-thead::after, jowo-time::after, jowo-title::after, jowo-tr::after, jowo-track::after, jowo-tt::after, jowo-u::after, jowo-ul::after, jowo-var::after, jowo-video::after, jowo-wbr::after {
+	width: auto;
+	height: auto;
+	min-width: auto;
+	min-height: auto;
+	max-width: 100%;
+	max-height: 100%;
+}
+
+jowo, jowo-view-code, jowo-view-html,
+jowo-a, jowo-abbr, jowo-acronym, jowo-address, jowo-applet, jowo-area, jowo-article, jowo-aside, jowo-audio, jowo-b, jowo-base,
+jowo-basefont, jowo-bdi, jowo-bdo, jowo-big, jowo-blockquote, jowo-body, jowo-br, jowo-button, jowo-canvas, jowo-caption, jowo-center,
+jowo-cite, jowo-code, jowo-col, jowo-colgroup, jowo-data, jowo-datalist, jowo-dd, jowo-del, jowo-details, jowo-dfn, jowo-dialog, jowo-dir,
+jowo-div, jowo-dl, jowo-dt, jowo-em, jowo-embed, jowo-fieldset, jowo-figcaption, jowo-figure, jowo-font, jowo-footer, jowo-form, jowo-frame,
+jowo-frameset, jowo-h1, jowo-h2, jowo-h3, jowo-h4, jowo-h5, jowo-h6, jowo-head, jowo-header, jowo-hr, jowo-html, jowo-i, jowo-iframe, jowo-img,
+jowo-input, jowo-ins, jowo-kbd, jowo-label, jowo-legend, jowo-li, jowo-link, jowo-main, jowo-map, jowo-mark, jowo-meta, jowo-meter, jowo-nav, 
+jowo-noframes, jowo-noscript, jowo-object, jowo-ol, jowo-optgroup, jowo-option, jowo-output, jowo-p, jowo-param, jowo-picture, jowo-pre, jowo-progress, 
+jowo-q, jowo-rp, jowo-rt, jowo-ruby, jowo-s, jowo-samp, jowo-script, jowo-section, jowo-select, jowo-small, jowo-source, jowo-span, jowo-strike, 
+jowo-strong, jowo-style, jowo-sub, jowo-summary, jowo-sup, jowo-svg, jowo-table, jowo-tbody, jowo-td, jowo-template, jowo-textarea, jowo-tfoot, jowo-th,
+jowo-thead, jowo-time, jowo-title, jowo-tr, jowo-track, jowo-tt, jowo-u, jowo-ul, jowo-var, jowo-video, jowo-wbr {
+	display: inherit;
+	background: transparent;
+	overflow-y: auto;
+}
+/* end pattern of document basic */
+
+/* start pattern of navigate basic */
+jowo-navigate {
+	width: 100%;
+    display: inline-block;
+    position: absolute;
+    background: repeating-linear-gradient(360deg, #ff0000, transparent 100px);
+    padding: 10px 10px 0px;
+    margin: 5px 0px;
+    border: 2px solid #1c6d1cbb;
+    border-radius: 15px;
+    top: 0;
+    left: 0;
+    text-align: center;
+    font-weight: bold;
+    color: #ffff;
+    font-size: x-large;
+    text-transform: lowercase;
+}
+/* end pattern of navigate basic */
+
+/* start pattern of font basic */
+jowo-bold, bold, b, .bold, .b {
+	font-weight:bold;
+} 
+jowo-bolder, bolder, bder, .bolder, .bder {
+	font-weight:bolder;
+}
+jowo-italic, italic, i, .italic, .i {
+	font-style: italic;
+}
+jowo-topline, topline, tl, .topline, .tl {
+	text-decoration: overline;
+	text-decoration-style: solid;
+}
+jowo-midline, midline, ml, .midline, .ml {
+	text-decoration: line-through;
+	text-decoration-style: solid;
+}
+jowo-underline, underline, u, .underline, .u {
+	text-decoration: underline;
+	text-decoration-style: solid;
+}
+jowo-bothline, bothline, bl, .bothline, .bl {
+	text-decoration: underline overline;
+	text-decoration-style: solid;
+}
+jowo-toplinewavy, toplinewavy, tlw, .toplinewavy, .tlw {
+	text-decoration: overline;
+	text-decoration-style: wavy;
+}
+jowo-midlinewavy, midlinewavy, mlw, .midlinewavy, .mlw {
+	text-decoration: line-through;
+	text-decoration-style: wavy;
+}
+jowo-underlinewavy, underlinewavy, uw, .underlinewavy, .uw {
+	text-decoration: underline;
+	text-decoration-style: wavy;
+}
+jowo-bothlinewavy, bothlinewavy, blw, .bothlinewavy, .blw {
+	text-decoration: underline overline;
+	text-decoration-style: wavy;
+}
+jowo-toplinedash, toplinedash, tldash, .toplinedash, .tldash {
+	text-decoration: overline;
+	text-decoration-style: dashed;
+}
+jowo-midlinedash, midlinedash, mldash, .midlinedash, .mldash {
+	text-decoration: line-through;
+	text-decoration-style: dashed;
+}
+jowo-underlinedash, underlinedash, udash, .underlinedash, .udash {
+	text-decoration: underline;
+	text-decoration-style: dashed;
+}
+jowo-bothlinedash, bothlinedash, bldash, .bothlinedash, .bldash {
+	text-decoration: underline overline;
+	text-decoration-style: dashed;
+}
+jowo-toplinedot, toplinedot, tldot, .toplinedot, .tldot {
+	text-decoration: overline;
+	text-decoration-style: dotted;
+}
+jowo-midlinedot, midlinedot, mldot, .midlinedot, .mldot {
+	text-decoration: line-through;
+	text-decoration-style: dotted;
+}
+jowo-underlinedot, underlinedot, udot, .underlinedot, .udot {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+}
+jowo-bothlinedot, bothlinedot, bldot, .bothlinedot, .bldot {
+	text-decoration: underline overline;
+	text-decoration-style: dotted;
+}
+jowo-toplinedouble, toplinedouble, tldouble, .toplinedouble, .tldouble {
+	text-decoration: overline;
+	text-decoration-style: double;
+}
+jowo-midlinedouble, midlinedouble, mldouble, .midlinedouble, .mldouble {
+	text-decoration: line-through;
+	text-decoration-style: double;
+}
+jowo-underlinedouble, underlinedouble, udouble, .underlinedouble, .udouble {
+	text-decoration: underline;
+	text-decoration-style: double;
+}
+jowo-bothlinedouble, bothlinedouble, bldouble, .bothlinedouble, .bldouble {
+	text-decoration: underline overline;
+	text-decoration-style: double;
+}
+/* end pattern of font basic */
+
+/* start pattern of position basic */
+jowo-left, left, .left {
+	float: left;
+}
+jowo-right, right, .right {
+	float: right;
+}  
+jowo-center, center, .center {
+	text-align: -webkit-center;
+	top: 50%;
+	left: 50%;
+	margin: 50% 0 0 50%;
+	padding: 50% 0 0 50%;
+}
+jowo-center, center, .center {
+	text-align: -webkit-center;
+	top: 50%;
+	left: 50%;
+	margin: 50% 0 0 50%;
+	padding: 50% 0 0 50%;
+}
+/* end pattern of position basic */
+
+/* start pattern of width and hight basic */
+jowo-full-width, full-width, jowo-max-width, max-width, .full-width, .max-width {
+	position: relative;
+	width: 100%;
+    min-width: max-content;
+}
+jowo-min-width, min-width, .min-width {
+    max-width: min-content;
+}
+
+jowo-full-height, full-height, jowo-max-height, max-height, .full-height, .max-height {
+    min-height: max-content;
+}
+jowo-min-height, min-height, .min-height {
+    max-height: min-content;
+}
+/* end pattern of width and hight basic */
+
+/* start pattern proof concept jowoscript */
+windowamp-analytics {
+	display : none !important;
+}
