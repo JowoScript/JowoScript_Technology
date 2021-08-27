@@ -228,6 +228,10 @@ jowo-min-width, .min-width {
     width: 0%;
     max-width: min-content;
 }
+jowo-auto-height, .auto-height {
+	height: initial;
+	min-height: max-content;
+}
 jowo-max-height, .max-height {
     height: 100%;
     min-height: max-content;
