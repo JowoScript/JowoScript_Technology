@@ -1,19 +1,19 @@
 /*
- * <jowo.descriptionJS3> JowoScript Style Sheets is a pattern jowoscript style sheet language used for describing the presentation of a document written.
- * <jowo.extensionJS3>   Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
- * <jowo.copyright>      Copyright © 2021 JowoScript Technology
- * <jowo.versionJS3>     Version 0.0.2
- * <jowo.author>         Author Muhammad Nurcahyo Pratomo
- * <jowo.founder>        Founder Muhammad Nurcahyo Pratomo
+ * <jowo.descriptionJS3>  JowoScript Style Sheets is a pattern jowoscript style sheet language used for describing the presentation of a document written.
+ * <jowo.extensionJS3>    Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
+ * <jowo.copyright>       Copyright © 2021 JowoScript Technology
+ * <jowo.versionJS3>      Version 0.0.3
+ * <jowo.author>          Author Muhammad Nurcahyo Pratomo
+ * <jowo.founder>         Founder Muhammad Nurcahyo Pratomo
  *
- * <jowo.license>        Licensed under privilege of author
+ * <jowo.license>         Licensed under privilege of author
  */
 
-/* start pattern of settings xml, svg and unicode based concept of jowoscript technology */
+/* start pattern of settings xml, svg and unicode based concept jowoscript technology */
 @namespace url(http://www.w3.org/1999/xhtml);
 @namespace svg url(http://www.w3.org/2000/svg);
 @charset "utf-8";
-/* end pattern of settings xml, svg and unicode based concept of jowoscript technology */
+/* end pattern of settings xml, svg and unicode based concept jowoscript technology */
 
 :root {
     --font-family: "jowoscript-icon";
@@ -27,7 +27,7 @@
     --filter: none;
 }
 
-/* start pattern of document based concept of jowoscript technology */
+/* start pattern of document based concept jowoscript technology */
 *, *::before, *::after {
     -webkit-box-align: center;
     -webkit-box-sizing: border-box;
@@ -80,9 +80,9 @@ jowo-thead, jowo-time, jowo-title, jowo-tr, jowo-track, jowo-tt, jowo-u, jowo-ul
     background: transparent;
     overflow-y: auto;
 }
-/* end pattern of document based concept of jowoscript technology */
+/* end pattern of document based concept jowoscript technology */
 
-/* start pattern of navigate based concept of jowoscript technology */
+/* start pattern of navigate based concept jowoscript technology */
 jowo-navigate {
     width: 100%;
     display: inline-block;
@@ -100,9 +100,9 @@ jowo-navigate {
     font-size: x-large;
     text-transform: lowercase;
 }
-/* end pattern of navigate based concept of jowoscript technology */
+/* end pattern of navigate based concept jowoscript technology */
 
-/* start pattern of font based concept of jowoscript technology */
+/* start pattern of font based concept jowoscript technology */
 jowo-bold, .bold {
     font-weight:bold;
 } 
@@ -192,9 +192,9 @@ jowo-bothlinedouble, .bothlinedouble {
     text-decoration: underline overline;
     text-decoration-style: double;
 }
-/* end pattern of font based concept of jowoscript technology */
+/* end pattern of font based concept jowoscript technology */
 
-/* start pattern of position based concept of jowoscript technology */
+/* start pattern of position based concept jowoscript technology */
 jowo-left, .left {
     float: left;
 }
@@ -213,9 +213,9 @@ jowo-font-left, .font-left {
 jowo-font-right, .font-right {
     text-align: -webkit-right;	 
 }
-/* end pattern of position based concept of jowoscript technology */
+/* end pattern of position based concept jowoscript technology */
 
-/* start pattern of width and hight based concept of jowoscript technology */
+/* start pattern of width and hight based concept jowoscript technology */
 jowo-auto-width, .auto-width {
     width: initial;
     min-width: max-content;	
@@ -228,9 +228,10 @@ jowo-min-width, .min-width {
     width: 0%;
     max-width: min-content;
 }
+
 jowo-auto-height, .auto-height {
-	height: initial;
-	min-height: max-content;
+    height: initial;
+    min-height: max-content;
 }
 jowo-max-height, .max-height {
     height: 100%;
@@ -240,9 +241,9 @@ jowo-min-height, .min-height {
     height: 0%;
     max-height: min-content;
 }
-/* end pattern of width and hight based concept of jowoscript technology */
+/* end pattern of width and hight based concept jowoscript technology */
 
-/* start pattern elements based concept of jowoscript technology */
+/* start pattern elements based concept jowoscript technology */
 jowo-html {
     display: block;
 }
@@ -253,11 +254,24 @@ jowo-body {
     display: block;
     margin: 8px;
 }
+jowo-div {
+    display: block;
+}
+jowo-label {
+    cursor: default;
+}
+jowo-p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
 jowo-table-caption {
     display: table-caption;
     text-align: -webkit-center;
 }
-jowo-table {
+jowo-table, table, .table {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 2px;
@@ -333,4 +347,25 @@ jowo-figure {
 jowo-figcaption {
     display: block;
 }
-/* end pattern elements based concept of jowoscript technology */
+jowo-ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+jowo-li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+jowo-li::marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+/* end pattern elements based concept jowoscript technology */
