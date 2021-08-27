@@ -1,52 +1,33 @@
 /*
- * <jowo.descriptionJS3>	JowoScript Style Sheets is a pattern jowoscript style sheet language used for describing the presentation of a document written.
- * <jowo.extensionJS3>		Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
- * <jowo.copyright>			Copyright © 2021 JowoScript Technology
- * <jowo.versionJS3>		Version 0.0.1
- * <jowo.author>			Author Muhammad Nurcahyo Pratomo
- * <jowo.founder>			Founder Muhammad Nurcahyo Pratomo
+ * <jowo.descriptionJS3> JowoScript Style Sheets is a pattern jowoscript style sheet language used for describing the presentation of a document written.
+ * <jowo.extensionJS3>   Markup extension is <namespace>.JS3 or <namespace>.JSSS (JowoScript Style Sheet)
+ * <jowo.copyright>      Copyright © 2021 JowoScript Technology
+ * <jowo.versionJS3>     Version 0.0.2
+ * <jowo.author>         Author Muhammad Nurcahyo Pratomo
+ * <jowo.founder>        Founder Muhammad Nurcahyo Pratomo
  *
- * <jowo.license>			Licensed under privilege of author
+ * <jowo.license>        Licensed under privilege of author
  */
- 
+
+/* start pattern of settings xml, svg and unicode based concept of jowoscript technology */
+@namespace url(http://www.w3.org/1999/xhtml);
+@namespace svg url(http://www.w3.org/2000/svg);
+@charset "utf-8";
+/* end pattern of settings xml, svg and unicode based concept of jowoscript technology */
+
 :root {
-    --*: inherit;
-	--*:: inherit;
-	--*.*: inherit;
-	--*.c: inherit;	
-	--*.h: inherit;	
-	--*.dsp: inherit;	
-	--*.ts: inherit;
-	--*.j$: inherit;
-	--*.js: inherit;
-	--*.js3: inherit;
-	--*.json: inherit;
-	--*.jawa: inherit;
-	--*.jowo: inherit;
-	--*.java: inherit;
-	--*.class: inherit;
-	--*.apk: inherit;
-	--*.jar: inherit;
-	--*.rar: inherit;
-	--*.war: inherit;
-	--*.file: inherit;
-	--*.dll: inherit;
-	--*.php: inherit;
-	--*.go: inherit;
-	--*.kt: inherit;
-	--*.kts: inherit;
-	--*.ktm: inherit;
-	--*.py: inherit;
-	--*.zul: inherit;
-	--*.xml: inherit;
-	--*.htm: inherit;
-	--*.html: inherit;
-	--*.shtml: inherit;
-	--*.css: inherit;
-	--*.scss: inherit;
+    --font-family: "jowoscript-icon";
+    --font-weight: inherit;
+    --font-style: inherit;
+    --font-size: initial;
+    --text-rendering: auto;
+    --background: inherit;
+    --border-radius: inherit;
+    --margin: inherit;
+    --filter: none;
 }
 
-/* start pattern of document basic */
+/* start pattern of document based concept of jowoscript technology */
 *, *::before, *::after {
 	-webkit-box-align: center;
     -webkit-box-sizing: border-box;
@@ -99,9 +80,9 @@ jowo-thead, jowo-time, jowo-title, jowo-tr, jowo-track, jowo-tt, jowo-u, jowo-ul
 	background: transparent;
 	overflow-y: auto;
 }
-/* end pattern of document basic */
+/* end pattern of document based concept of jowoscript technology */
 
-/* start pattern of navigate basic */
+/* start pattern of navigate based concept of jowoscript technology */
 jowo-navigate {
 	width: 100%;
     display: inline-block;
@@ -119,130 +100,132 @@ jowo-navigate {
     font-size: x-large;
     text-transform: lowercase;
 }
-/* end pattern of navigate basic */
+/* end pattern of navigate based concept of jowoscript technology */
 
-/* start pattern of font basic */
-jowo-bold, bold, b, .bold, .b {
+/* start pattern of font based concept of jowoscript technology */
+jowo-bold, .bold {
 	font-weight:bold;
 } 
-jowo-bolder, bolder, bder, .bolder, .bder {
+jowo-bolder, .bolder {
 	font-weight:bolder;
 }
-jowo-italic, italic, i, .italic, .i {
+jowo-italic, .italic {
 	font-style: italic;
 }
-jowo-topline, topline, tl, .topline, .tl {
+jowo-topline, .topline {
 	text-decoration: overline;
 	text-decoration-style: solid;
 }
-jowo-midline, midline, ml, .midline, .ml {
+jowo-midline, .midline {
 	text-decoration: line-through;
 	text-decoration-style: solid;
 }
-jowo-underline, underline, u, .underline, .u {
+jowo-underline, .underline {
 	text-decoration: underline;
 	text-decoration-style: solid;
 }
-jowo-bothline, bothline, bl, .bothline, .bl {
+jowo-bothline, .bothline {
 	text-decoration: underline overline;
 	text-decoration-style: solid;
 }
-jowo-toplinewavy, toplinewavy, tlw, .toplinewavy, .tlw {
+jowo-toplinewavy, .toplinewavy {
 	text-decoration: overline;
 	text-decoration-style: wavy;
 }
-jowo-midlinewavy, midlinewavy, mlw, .midlinewavy, .mlw {
+jowo-midlinewavy, .midlinewavy {
 	text-decoration: line-through;
 	text-decoration-style: wavy;
 }
-jowo-underlinewavy, underlinewavy, uw, .underlinewavy, .uw {
+jowo-underlinewavy, .underlinewavy {
 	text-decoration: underline;
 	text-decoration-style: wavy;
 }
-jowo-bothlinewavy, bothlinewavy, blw, .bothlinewavy, .blw {
+jowo-bothlinewavy, .bothlinewavy {
 	text-decoration: underline overline;
 	text-decoration-style: wavy;
 }
-jowo-toplinedash, toplinedash, tldash, .toplinedash, .tldash {
+jowo-toplinedash, .toplinedash {
 	text-decoration: overline;
 	text-decoration-style: dashed;
 }
-jowo-midlinedash, midlinedash, mldash, .midlinedash, .mldash {
+jowo-midlinedash, .midlinedash {
 	text-decoration: line-through;
 	text-decoration-style: dashed;
 }
-jowo-underlinedash, underlinedash, udash, .underlinedash, .udash {
+jowo-underlinedash, .underlinedash {
 	text-decoration: underline;
 	text-decoration-style: dashed;
 }
-jowo-bothlinedash, bothlinedash, bldash, .bothlinedash, .bldash {
+jowo-bothlinedash, .bothlinedash {
 	text-decoration: underline overline;
 	text-decoration-style: dashed;
 }
-jowo-toplinedot, toplinedot, tldot, .toplinedot, .tldot {
+jowo-toplinedot, .toplinedot {
 	text-decoration: overline;
 	text-decoration-style: dotted;
 }
-jowo-midlinedot, midlinedot, mldot, .midlinedot, .mldot {
+jowo-midlinedot, .midlinedot {
 	text-decoration: line-through;
 	text-decoration-style: dotted;
 }
-jowo-underlinedot, underlinedot, udot, .underlinedot, .udot {
+jowo-underlinedot, .underlinedot {
 	text-decoration: underline;
 	text-decoration-style: dotted;
 }
-jowo-bothlinedot, bothlinedot, bldot, .bothlinedot, .bldot {
+jowo-bothlinedot, .bothlinedot {
 	text-decoration: underline overline;
 	text-decoration-style: dotted;
 }
-jowo-toplinedouble, toplinedouble, tldouble, .toplinedouble, .tldouble {
+jowo-toplinedouble, .toplinedouble {
 	text-decoration: overline;
 	text-decoration-style: double;
 }
-jowo-midlinedouble, midlinedouble, mldouble, .midlinedouble, .mldouble {
+jowo-midlinedouble, .midlinedouble {
 	text-decoration: line-through;
 	text-decoration-style: double;
 }
-jowo-underlinedouble, underlinedouble, udouble, .underlinedouble, .udouble {
+jowo-underlinedouble, .underlinedouble {
 	text-decoration: underline;
 	text-decoration-style: double;
 }
-jowo-bothlinedouble, bothlinedouble, bldouble, .bothlinedouble, .bldouble {
+jowo-bothlinedouble, .bothlinedouble {
 	text-decoration: underline overline;
 	text-decoration-style: double;
 }
-/* end pattern of font basic */
+/* end pattern of font based concept of jowoscript technology */
 
-/* start pattern of position basic */
+/* start pattern of position based concept of jowoscript technology */
 jowo-left, left, .left {
 	float: left;
 }
-jowo-right, right, .right {
+jowo-right, .right {
 	float: right;
-}  
-jowo-center, center, .center {
-	text-align: -webkit-center;
-	top: 50%;
-	left: 50%;
-	margin: 50% 0 0 50%;
-	padding: 50% 0 0 50%;
 }
-jowo-center, center, .center {
-	text-align: -webkit-center;
-	top: 50%;
-	left: 50%;
-	margin: 50% 0 0 50%;
-	padding: 50% 0 0 50%;
+jowo-font-auto, .font-auto {
+	text-align: -webkit-auto;	 
 }
-/* end pattern of position basic */
+jowo-font-center, .font-center {
+	text-align: -webkit-center;	 
+}
+jowo-font-left, .font-left {
+	text-align: -webkit-left;	 
+}
+jowo-font-right, .font-right {
+	text-align: -webkit-right;	 
+}
+/* end pattern of position based concept of jowoscript technology */
 
-/* start pattern of width and hight basic */
-jowo-full-width, full-width, jowo-max-width, max-width, .full-width, .max-width {
-	position: relative;
-	width: 100%;
-    min-width: max-content;
+/* start pattern of width and hight based concept of jowoscript technology */
+jowo-auto-width, auto-width, .auto-width {
+	width: initial;
+	min-width: max-content;	
 }
-jowo-min-width, min-width, .min-width {
+jowo-full-width, full-width, jowo-max-width, max-width, .long-width, .max-width {
+	width: 100%;
+	min-width: max-content;	
+}
+jowo-min-width, min-width, .short-width, .min-width {
+	width: 0%;
     max-width: min-content;
 }
 
@@ -252,9 +235,97 @@ jowo-full-height, full-height, jowo-max-height, max-height, .full-height, .max-h
 jowo-min-height, min-height, .min-height {
     max-height: min-content;
 }
-/* end pattern of width and hight basic */
+/* end pattern of width and hight based concept of jowoscript technology */
 
-/* start pattern proof concept jowoscript */
-windowamp-analytics {
-	display : none !important;
+/* start pattern elements based concept of jowoscript technology */
+jowo-html {
+	display: block;
 }
+jowo-head {
+	display: none;
+}
+jowo-body {
+	display: block;
+	margin: 8px;
+}
+jowo-table-caption, table-caption, .table-caption {
+	display: table-caption;
+    text-align: -webkit-center;
+}
+jowo-table, table, .table {
+	border-collapse: separate;
+    text-indent: initial;
+    border-spacing: 2px;
+}
+jowo-colgroup {
+    display: table-column-group;
+}
+jowo-col {
+    display: table-column;
+}
+jowo-thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+jowo-tbody {
+	display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+jowo-tr {
+	display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+jowo-th {
+	display: table-cell;
+    vertical-align: inherit;
+    font-weight: bold;
+    text-align: -internal-center;
+}
+jowo-td {
+	display: table-cell;
+    vertical-align: inherit;
+}
+jowo-tfoot {
+	display: table-footer-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
+jowo-select {
+	-webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: -internal-light-dark(black, white);
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    text-align: start;
+    white-space: pre;
+    -webkit-rtl-ordering: logical;
+    cursor: default;
+    font: 400 13.3333px Arial;
+}
+jowo-select:not(:-internal-list-box) {
+    overflow: visible !important;
+}
+jowo-option {
+	font-weight: normal;
+    display: block;
+    white-space: nowrap;
+    min-height: 1.2em;
+    padding: 0px 2px 1px;
+}
+jowo-figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+jowo-figcaption {
+    display: block;
+}
+/* end pattern elements based concept of jowoscript technology */
