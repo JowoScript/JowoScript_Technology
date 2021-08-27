@@ -249,11 +249,11 @@ jowo-body {
     display: block;
     margin: 8px;
 }
-jowo-table-caption, table-caption, .table-caption {
+jowo-table-caption {
     display: table-caption;
     text-align: -webkit-center;
 }
-jowo-table, table, .table {
+jowo-table {
     border-collapse: separate;
     text-indent: initial;
     border-spacing: 2px;
