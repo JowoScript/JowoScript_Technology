@@ -29,7 +29,7 @@
 
 /* start pattern of document based concept of jowoscript technology */
 *, *::before, *::after {
-	-webkit-box-align: center;
+    -webkit-box-align: center;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
@@ -57,12 +57,12 @@ jowo-noframes::after, jowo-noscript::after, jowo-object::after, jowo-ol::after, 
 jowo-q::after, jowo-rp::after, jowo-rt::after, jowo-ruby::after, jowo-s::after, jowo-samp::after, jowo-script::after, jowo-section::after, jowo-select::after, jowo-small::after, jowo-source::after, jowo-span::after, jowo-strike::after, 
 jowo-strong::after, jowo-style::after, jowo-sub::after, jowo-summary::after, jowo-sup::after, jowo-svg::after, jowo-table::after, jowo-tbody::after, jowo-td::after, jowo-template::after, jowo-textarea::after, jowo-tfoot::after, jowo-th::after,
 jowo-thead::after, jowo-time::after, jowo-title::after, jowo-tr::after, jowo-track::after, jowo-tt::after, jowo-u::after, jowo-ul::after, jowo-var::after, jowo-video::after, jowo-wbr::after {
-	width: auto;
-	height: auto;
-	min-width: auto;
-	min-height: auto;
-	max-width: 100%;
-	max-height: 100%;
+    width: auto;
+    height: auto;
+    min-width: auto;
+    min-height: auto;
+    max-width: 100%;
+    max-height: 100%;
 }
 
 jowo, jowo-view-code, jowo-view-html,
@@ -76,15 +76,15 @@ jowo-noframes, jowo-noscript, jowo-object, jowo-ol, jowo-optgroup, jowo-option, 
 jowo-q, jowo-rp, jowo-rt, jowo-ruby, jowo-s, jowo-samp, jowo-script, jowo-section, jowo-select, jowo-small, jowo-source, jowo-span, jowo-strike, 
 jowo-strong, jowo-style, jowo-sub, jowo-summary, jowo-sup, jowo-svg, jowo-table, jowo-tbody, jowo-td, jowo-template, jowo-textarea, jowo-tfoot, jowo-th,
 jowo-thead, jowo-time, jowo-title, jowo-tr, jowo-track, jowo-tt, jowo-u, jowo-ul, jowo-var, jowo-video, jowo-wbr {
-	display: inherit;
-	background: transparent;
-	overflow-y: auto;
+    display: inherit;
+    background: transparent;
+    overflow-y: auto;
 }
 /* end pattern of document based concept of jowoscript technology */
 
 /* start pattern of navigate based concept of jowoscript technology */
 jowo-navigate {
-	width: 100%;
+    width: 100%;
     display: inline-block;
     position: absolute;
     background: repeating-linear-gradient(360deg, #ff0000, transparent 100px);
@@ -104,128 +104,128 @@ jowo-navigate {
 
 /* start pattern of font based concept of jowoscript technology */
 jowo-bold, .bold {
-	font-weight:bold;
+    font-weight:bold;
 } 
 jowo-bolder, .bolder {
-	font-weight:bolder;
+    font-weight:bolder;
 }
 jowo-italic, .italic {
-	font-style: italic;
+    font-style: italic;
 }
 jowo-topline, .topline {
-	text-decoration: overline;
-	text-decoration-style: solid;
+    text-decoration: overline;
+    text-decoration-style: solid;
 }
 jowo-midline, .midline {
-	text-decoration: line-through;
-	text-decoration-style: solid;
+    text-decoration: line-through;
+    text-decoration-style: solid;
 }
 jowo-underline, .underline {
-	text-decoration: underline;
-	text-decoration-style: solid;
+    text-decoration: underline;
+    text-decoration-style: solid;
 }
 jowo-bothline, .bothline {
-	text-decoration: underline overline;
-	text-decoration-style: solid;
+    text-decoration: underline overline;
+    text-decoration-style: solid;
 }
 jowo-toplinewavy, .toplinewavy {
-	text-decoration: overline;
-	text-decoration-style: wavy;
+    text-decoration: overline;
+    text-decoration-style: wavy;
 }
 jowo-midlinewavy, .midlinewavy {
-	text-decoration: line-through;
-	text-decoration-style: wavy;
+    text-decoration: line-through;
+    text-decoration-style: wavy;
 }
 jowo-underlinewavy, .underlinewavy {
-	text-decoration: underline;
-	text-decoration-style: wavy;
+    text-decoration: underline;
+    text-decoration-style: wavy;
 }
 jowo-bothlinewavy, .bothlinewavy {
-	text-decoration: underline overline;
-	text-decoration-style: wavy;
+    text-decoration: underline overline;
+    text-decoration-style: wavy;
 }
 jowo-toplinedash, .toplinedash {
-	text-decoration: overline;
-	text-decoration-style: dashed;
+    text-decoration: overline;
+    text-decoration-style: dashed;
 }
 jowo-midlinedash, .midlinedash {
-	text-decoration: line-through;
-	text-decoration-style: dashed;
+    text-decoration: line-through;
+    text-decoration-style: dashed;
 }
 jowo-underlinedash, .underlinedash {
-	text-decoration: underline;
-	text-decoration-style: dashed;
+    text-decoration: underline;
+    text-decoration-style: dashed;
 }
 jowo-bothlinedash, .bothlinedash {
-	text-decoration: underline overline;
-	text-decoration-style: dashed;
+    text-decoration: underline overline;
+    text-decoration-style: dashed;
 }
 jowo-toplinedot, .toplinedot {
-	text-decoration: overline;
-	text-decoration-style: dotted;
+    text-decoration: overline;
+    text-decoration-style: dotted;
 }
 jowo-midlinedot, .midlinedot {
-	text-decoration: line-through;
-	text-decoration-style: dotted;
+    text-decoration: line-through;
+    text-decoration-style: dotted;
 }
 jowo-underlinedot, .underlinedot {
-	text-decoration: underline;
-	text-decoration-style: dotted;
+    text-decoration: underline;
+    text-decoration-style: dotted;
 }
 jowo-bothlinedot, .bothlinedot {
-	text-decoration: underline overline;
-	text-decoration-style: dotted;
+    text-decoration: underline overline;
+    text-decoration-style: dotted;
 }
 jowo-toplinedouble, .toplinedouble {
-	text-decoration: overline;
-	text-decoration-style: double;
+    text-decoration: overline;
+    text-decoration-style: double;
 }
 jowo-midlinedouble, .midlinedouble {
-	text-decoration: line-through;
-	text-decoration-style: double;
+    text-decoration: line-through;
+    text-decoration-style: double;
 }
 jowo-underlinedouble, .underlinedouble {
-	text-decoration: underline;
-	text-decoration-style: double;
+    text-decoration: underline;
+    text-decoration-style: double;
 }
 jowo-bothlinedouble, .bothlinedouble {
-	text-decoration: underline overline;
-	text-decoration-style: double;
+    text-decoration: underline overline;
+    text-decoration-style: double;
 }
 /* end pattern of font based concept of jowoscript technology */
 
 /* start pattern of position based concept of jowoscript technology */
 jowo-left, left, .left {
-	float: left;
+    float: left;
 }
 jowo-right, .right {
-	float: right;
+    float: right;
 }
 jowo-font-auto, .font-auto {
-	text-align: -webkit-auto;	 
+    text-align: -webkit-auto;	 
 }
 jowo-font-center, .font-center {
-	text-align: -webkit-center;	 
+    text-align: -webkit-center;	 
 }
 jowo-font-left, .font-left {
-	text-align: -webkit-left;	 
+    text-align: -webkit-left;	 
 }
 jowo-font-right, .font-right {
-	text-align: -webkit-right;	 
+    text-align: -webkit-right;	 
 }
 /* end pattern of position based concept of jowoscript technology */
 
 /* start pattern of width and hight based concept of jowoscript technology */
 jowo-auto-width, auto-width, .auto-width {
-	width: initial;
-	min-width: max-content;	
+    width: initial;
+    min-width: max-content;	
 }
 jowo-full-width, full-width, jowo-max-width, max-width, .long-width, .max-width {
-	width: 100%;
-	min-width: max-content;	
+    width: 100%;
+    min-width: max-content;	
 }
 jowo-min-width, min-width, .short-width, .min-width {
-	width: 0%;
+    width: 0%;
     max-width: min-content;
 }
 
@@ -239,21 +239,21 @@ jowo-min-height, min-height, .min-height {
 
 /* start pattern elements based concept of jowoscript technology */
 jowo-html {
-	display: block;
+    display: block;
 }
 jowo-head {
-	display: none;
+    display: none;
 }
 jowo-body {
-	display: block;
-	margin: 8px;
+    display: block;
+    margin: 8px;
 }
 jowo-table-caption, table-caption, .table-caption {
-	display: table-caption;
+    display: table-caption;
     text-align: -webkit-center;
 }
 jowo-table, table, .table {
-	border-collapse: separate;
+    border-collapse: separate;
     text-indent: initial;
     border-spacing: 2px;
 }
@@ -269,32 +269,32 @@ jowo-thead {
     border-color: inherit;
 }
 jowo-tbody {
-	display: table-row-group;
+    display: table-row-group;
     vertical-align: middle;
     border-color: inherit;
 }
 jowo-tr {
-	display: table-row;
+    display: table-row;
     vertical-align: inherit;
     border-color: inherit;
 }
 jowo-th {
-	display: table-cell;
+    display: table-cell;
     vertical-align: inherit;
     font-weight: bold;
     text-align: -internal-center;
 }
 jowo-td {
-	display: table-cell;
+    display: table-cell;
     vertical-align: inherit;
 }
 jowo-tfoot {
-	display: table-footer-group;
+    display: table-footer-group;
     vertical-align: middle;
     border-color: inherit;
 }
 jowo-select {
-	-webkit-writing-mode: horizontal-tb !important;
+    -webkit-writing-mode: horizontal-tb !important;
     text-rendering: auto;
     color: -internal-light-dark(black, white);
     letter-spacing: normal;
@@ -312,7 +312,7 @@ jowo-select:not(:-internal-list-box) {
     overflow: visible !important;
 }
 jowo-option {
-	font-weight: normal;
+    font-weight: normal;
     display: block;
     white-space: nowrap;
     min-height: 1.2em;
