@@ -195,7 +195,7 @@ jowo-bothlinedouble, .bothlinedouble {
 /* end pattern of font based concept of jowoscript technology */
 
 /* start pattern of position based concept of jowoscript technology */
-jowo-left, left, .left {
+jowo-left, .left {
     float: left;
 }
 jowo-right, .right {
@@ -216,23 +216,24 @@ jowo-font-right, .font-right {
 /* end pattern of position based concept of jowoscript technology */
 
 /* start pattern of width and hight based concept of jowoscript technology */
-jowo-auto-width, auto-width, .auto-width {
+jowo-auto-width, .auto-width {
     width: initial;
     min-width: max-content;	
 }
-jowo-full-width, full-width, jowo-max-width, max-width, .long-width, .max-width {
+jowo-max-width, .max-width {
     width: 100%;
     min-width: max-content;	
 }
-jowo-min-width, min-width, .short-width, .min-width {
+jowo-min-width, .min-width {
     width: 0%;
     max-width: min-content;
 }
-
-jowo-full-height, full-height, jowo-max-height, max-height, .full-height, .max-height {
+jowo-max-height, .max-height {
+    height: 100%;
     min-height: max-content;
 }
-jowo-min-height, min-height, .min-height {
+jowo-min-height, .min-height {
+    height: 0%;
     max-height: min-content;
 }
 /* end pattern of width and hight based concept of jowoscript technology */
