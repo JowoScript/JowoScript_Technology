@@ -1,6 +1,11 @@
 # JowoScript Technology ( build with 💓 )
 ```text
+JowoScript version 0.1.4 ( stable version ) incredible capabilities
+handling array of objects and decided multiple of attributes and pseudo
+JowoScript Base on JavaScript Engine (Public Technology)
+MNP Base on Java™ Technology Environment, JowoScript and JavaScript Engine (Private Technology)
 JowoScript is cross platform, small size and faster ( build with 💓 )
+
 https://www.facehom.com/jowoscript
 ```
 ## Installation information
