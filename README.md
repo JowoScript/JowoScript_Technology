@@ -1,6 +1,6 @@
 # JowoScript Technology ( build with 💓 )
 ```text
-JowoScript is Cross Platform, Small Size, Faster, JavaScript Engine and JowoScript Engine.
+JowoScript is cross platform, small size and faster ( build with 💓 )
 https://www.facehom.com/jowoscript
 ```
 ## Installation information
