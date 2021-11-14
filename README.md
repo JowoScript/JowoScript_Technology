@@ -6,6 +6,16 @@ JowoScript Base on JavaScript Engine (Public Technology)
 MNP Base on Java™ Technology Environment, JowoScript and JavaScript Engine (Private Technology)
 JowoScript is cross platform, small size and faster ( build with 💓 )
 
+Example :
+mnp attribute		: mnp("mnp^object"), jowo("mnp^object"), mnp("^object"), jowo("^object");
+jowo attribute		: mnp("jowo*object"), jowo("jowo*object"), mnp("*object"), jowo("*object");
+jawa attribute		: mnp("jawa@object"), jowo("jawa@object"), mnp("@object"), jowo("@object");
+id attribute		: mnp("id*object"), jowo("id*object"), mnp("id^object"), jowo("id^object"), mnp("id@object"), jowo("id@object"), mnp("#object"), jowo("#object");
+class attribute		: mnp("class*object"), jowo("class*object"), mnp("class^object"), jowo("class^object"), mnp("class@object"), jowo("class@object"), mnp(".object"), jowo(".object");
+name attribute		: mnp("name*object"), mnp("name^object"), mnp("name@object");
+array of attribute 	: mnp("[ jowo*object, [jowo*object], element[attribute], node[node] ]")	mnp("element[attribute="value"], [attribute="value"], [attribute="value"] [attribute]");
+array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pseudo object:pseudo ");
+
 https://www.facehom.com/jowoscript
 ```
 ## Installation information
