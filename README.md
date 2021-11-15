@@ -18,7 +18,7 @@ array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pse
 
 https://www.facehom.com/jowoscript
 ```
-## Architecture jowoscript technology
+## Architecture of jowoscript technology
 <details>
 <summary>Click to view image</summary>
 	
