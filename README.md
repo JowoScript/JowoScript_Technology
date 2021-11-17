@@ -22,7 +22,7 @@ https://www.facehom.com/jowoscript
 <details>
 <summary>Click to view image</summary>
 	
-<img src="https://github.com/0x101jowoscript/JowoScript_Technology/blob/b7b5177190c142e5d2484545ea39fd0a52ccacb8/methodology%20of%20architecture%20workflow%20jowoscript.png" title="methodology of architecture workflow jowoscript">
+<img src="https://github.com/0x101jowoscript/JowoScript_Technology/blob/b7b5177190c142e5d2484545ea39fd0a52ccacb8/methodology%20of%20architecture%20workflow%20jowoscript.png" title="Architecture of jowoscript technology">
 
 </details>
 
