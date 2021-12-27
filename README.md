@@ -1,5 +1,11 @@
 # JowoScript Technology ( build with 💓 )
-```text
+<details>
+<summary>Support Technology :</summary>
+	
+<ul><li>Auto compiler file *.jowo</li><li>Support TypeScript above version 1.0.0 auto compiler file *.ts</li><li>Encryption end to end (Meaning i.e is that all data linked to jowoscript will be automatically encrypted with source code base)</li><li>JowoScript Technology cannot be detected by third-party technology or the like because the source code of JowoScript Technology is end-to-end encryption, meaning that it is not easily read by bad hackers or cybercriminals.</li><li>Very easy to install on multiplatform servers to deploy because it is a cross platform with javascript technology standard</li><li>Responsive mode user interface (Meaning i.e. when your design is in tablet mode, mobile or phone mode, television mode, LCD(Liquid Crystal Display) mode and laptop mode)</li><li>Cross platform (For example, a cross-platform application may run on Microsoft Mobile, Microsoft Windows, Android, z/OS, Linux OS, Unix OS, iOS and macOS)</li><li>Smart automatic detection error in javascript engine</li><li>Smart automatic detection error in jowoscript engine</li><li>Smart automatic jowoscript in Java Enterprise Edition (JEE)</li><li>Handling array of objects and decided multiple of attributes and pseudo</li><li>Licensed free under privilege of author and creator</li></ul>
+</details>
+
+```html
 /*
  *
  * @jowo.version              : 0.1.6
@@ -14,7 +20,6 @@
  * Made in Republic Of Indonesia
  * 
  */
-
 Example :
 mnp attribute		: mnp("mnp^object"), jowo("mnp^object"), mnp("^object"), jowo("^object");
 jowo attribute		: mnp("jowo*object"), jowo("jowo*object"), mnp("*object"), jowo("*object");
