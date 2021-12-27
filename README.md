@@ -1,10 +1,19 @@
 # JowoScript Technology ( build with 💓 )
 ```text
-JowoScript version 0.1.4 ( stable version ) incredible capabilities
-handling array of objects and decided multiple of attributes and pseudo
-JowoScript Base on JavaScript Engine (Public Technology)
-MNP Base on Java™ Technology Environment, JowoScript and JavaScript Engine (Private Technology)
-JowoScript is cross platform, small size and faster ( build with 💓 )
+/*
+ *
+ * @jowo.version              : 0.1.6
+ * @jowo.creator              : Muhammad Nurcahyo Pratomo
+ * @jowo.license              : Licensed free under privilege of author and creator
+ * @jowo.description          : JowoScript Technology is cross platform, small size and faster ( build with 💓 )
+ * @jowo.technology           : JowoScript Technology
+ * @jowo.technology           : Copyright 2021 JowoScript Technology
+ * @jowo.architect_technology : Muhammad Nurcahyo Pratomo
+ * @jowo.madein               : Republic Of Indonesia
+ *
+ * Made in Republic Of Indonesia
+ * 
+ */
 
 Example :
 mnp attribute		: mnp("mnp^object"), jowo("mnp^object"), mnp("^object"), jowo("^object");
@@ -44,11 +53,11 @@ class ViewController: UIViewController, WKUIDelegate {
     }
     override func viewDidLoad() {
         super.viewDidLoad()        
-        let myURL = URL(string:"JowoScriptMachine.js")
+        let myURL = URL(string:"jowo-script.js")
         let myRequest = URLRequest(url: myURL!)
         webView.load(myRequest) //Load from url base webview class
-	webView.loadHTMLString("<script>jowo.copyright</script>", baseURL: myURL)
-	//Result : JowoScript - JawaScript
+	webView.loadHTMLString("<script>jowo.technology</script>", baseURL: myURL)
+	//Result : JowoScript Technology
     }
 }
 ```
@@ -65,11 +74,11 @@ public class JSTopHeadDynamicInclude extends BaseDynamicInclude {
 	public void include(HttpServletRequest request, HttpServletResponse response, String key)
 		throws IOException {
 		PrintWriter printWriter = response.getWriter();
-		String content = "<script href=\"http://localhost:8080/sampleIncludeJowoScript/js/JowoScriptMachine.js\" type = \"text/javascript\" />";
-		String jowoScript = "jowo.copyright" type = \"text/javascript\" />";
+		String content = "<script href=\"http://localhost:8080/../../js/jowo-script.js\" type = \"text/javascript\" />";
+		String jowoScript = "jowo.technology" type = \"text/javascript\" />";
 		printWriter.println(jowoScript);
 		//In console IDE like eclipse, rational application developer, jetbrains, netbeans, browser environment, etc. 
-		//Result : JowoScript - JawaScript
+		//Result : JowoScript Technology
 	}
 	@Override
 	public void register(DynamicIncludeRegistry dynamicIncludeRegistry) {
@@ -84,12 +93,12 @@ Liferay Framework, More information you can look at [here](https://help.liferay.
 	
 ```javascript
 <zk>
-<script type="text/javascript" src="JowoScriptMachine.js"></script>
+<script type="text/javascript" src="jowo-script.js"></script>
 <window title="sample jowo script" border="none" width="100%" closable="true">	
 	<script type="text/javascript">
-		jowo.copyright
+		jowo.technology
 	</script>
-	//Result : JowoScript - JawaScript
+	//Result : JowoScript Technology
 </window>
 </zk>
 ```
@@ -98,7 +107,7 @@ Liferay Framework, More information you can look at [here](https://help.liferay.
 <summary>Installation Android</summary>
 	
 ```java
-webview.loadDataWithBaseURL("file:///android_asset/javascript/JowoScriptMachine.js", page, "text/javascript", null, null);
+webview.loadDataWithBaseURL("file:///android_asset/javascript/jowo-script.js", page, "text/javascript", null, null);
 ```
 Android, More information you can look at [here](https://developer.android.com/guide/webapps/webview#kotlin)
 </details>
@@ -116,14 +125,14 @@ using System;
 using System.Web;
 using System.Web.UI;
 using System.Security.Permissions;
-[assembly: WebResource("Samples.AspNet.CS.Controls.JowoScriptMachine.js", "application/x-javascript")]
+[assembly: WebResource("Samples.AspNet.CS.Controls.jowo-script.js", "application/x-javascript")]
 namespace Samples.AspNet.CS.Controls
 {
     [AspNetHostingPermission(SecurityAction.Demand, Level = AspNetHostingPermissionLevel.Minimal)]
     public class ClientScriptResourceLabel
     {
-        Console.WriteLine(jowo.copyright);
-	//Result : JowoScript - JawaScript
+		Console.WriteLine(jowo.technology);
+		//Result : JowoScript Technology
     }
 }
 ```
@@ -137,10 +146,10 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 ```html
 <html>
 <head>
-<script type="text/javascript" src="JowoScriptMachine.js"></script>
+<script type="text/javascript" src="jowo-script.js"></script>
 </head>
 <body>
-	<h1><center>Hello jowo and jawa script in here</center></h1>
+	<h1><center>Hello jowoscript in here</center></h1>
 	<h2><center>try many function</center></h2>
 	<center>
 		<p jowo="p" id="p" class="p">hello world wide</p>
