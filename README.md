@@ -170,4 +170,4 @@ muhammad nurcahyo pratomo
 JowoScript Technology ( build with 💓 )
 ```
 ## License
-Licensed under privilege of author
+Licensed free under privilege of author and creator
