@@ -149,13 +149,18 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 <script type="text/javascript" src="jowo-script.js"></script>
 </head>
 <body>
-	<h1><center>Hello jowoscript in here</center></h1>
-	<h2><center>try many function</center></h2>
-	<center>
-		<p jowo="p" id="p" class="p">hello world wide</p>
-		<input jowo="input" id="input" class="input" type="text">
-		<button jowo="button" id="button" class="button">Submit</button>
-	</center>
+	<script type="text/jowoscript">
+	<string> strong = 'JowoScript walking alone';
+	<int> count = 1 / 9999;
+	jowo.information( strong );
+	jowo.information('Result :'+count);
+	//Result JowoScript walking alone
+	//Result 0.00010001000100010001
+	</script>
+	<jowo-script>
+	jowo.information( jowo.technology );
+	//Result JowoScript Technology
+	</jowo-script>
 </body>
 </html>
 ```
