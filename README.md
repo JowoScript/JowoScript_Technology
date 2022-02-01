@@ -32,7 +32,7 @@ array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pse
 
 https://www.facehom.com
 ```
-## Architecture of jowoscript technology
+#### Architecture of jowoscript technology
 <details>
 <summary>Click to view image</summary>
 	
@@ -40,7 +40,7 @@ https://www.facehom.com
 
 </details>
 
-## Installation information
+#### Installation information
 <details>
 <summary>Installation iOS - MacOS</summary>
 	
@@ -171,13 +171,13 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 ```
 </details>
 
-## Authors
+#### Authors
 ```html
 muhammad nurcahyo pratomo
 ```
-## Copyright
+#### Copyright
 ```html
 JowoScript Technology ( build with 💓 )
 ```
-## License
+#### License
 Licensed free under privilege of author and creator
