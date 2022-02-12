@@ -28,7 +28,7 @@
  * Licensed free under privilege of author and creator
  * Copyright technology protected by intellectual property rights in underground
  *
- * Protected Code Compiler Language Encryption end to end by Muhammad Nurcahyo Pratomo.
+ * Protected Code Compiler Language Encryption end to end.
  * 
  */
 Example :
