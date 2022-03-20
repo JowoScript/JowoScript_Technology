@@ -8,7 +8,7 @@
 ```html
 /*
  *
- * @jowo.version              : xx.xx.xx
+ * @jowo.version              : xx.xx.xx (JSRevamp Mission)
  * @jowo.creator              : Muhammad Nurcahyo Pratomo
  * @jowo.author               : Muhammad Nurcahyo Pratomo
  * @jowo.founder              : Muhammad Nurcahyo Pratomo
