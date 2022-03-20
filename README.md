@@ -22,7 +22,7 @@
  * @Support DeadLock Code Injection and DeadLock Code Unminify. [Security-Policy unilaterally]
  * 
  * @It's VERY EXPENSIVE my salary expectation especially in my own nation, 
- * namely Indonesia because it has hurt me before from all the tests you gave me before and it's not easy to hire me and i like BIG FISH INVESTOR.
+ * namely Indonesia because it has hurt me before from all the tests you gave me before and it's not easy to hire me now and i like BIG FISH INVESTOR.
  *
  * This technology is not for sale unilaterally without the permission of the creator 
  * and it is strictly forbidden to change the content of the source code without the permission of the creator.
