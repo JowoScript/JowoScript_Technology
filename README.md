@@ -30,6 +30,7 @@
  *
  * Protected Code Compiler Language Encryption end to end.
  * 
+ * [*JowoScript Technology Made By Muhammad Nurcahyo Pratomo and Technology Under of Muhammad Nurcahyo Pratomo]
  */
 Example :
 mnp attribute		: mnp("mnp^object"), jowo("mnp^object"), mnp("^object"), jowo("^object");
