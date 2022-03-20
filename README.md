@@ -1,4 +1,4 @@
-#### JowoScript technology is typing less, compiler language, complex structure, small size and faster ( build with 💓 )
+##### *JowoScript Technology is typing less, compiler language, complex structure, small size and faster ( build with 💓🦄 )
 <details>
 <summary>Support Technology :</summary>
 	
