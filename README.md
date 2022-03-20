@@ -47,7 +47,7 @@ https://www.facehom.com
 <details>
 <summary>Click to view image</summary>
 	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology-version 0.2.1.png" title="Architecture of jowoscript technology">
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology-version 0.2.1.png" title="Architecture of *JowoScript Technology">
 
 </details>
 
