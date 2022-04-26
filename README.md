@@ -184,7 +184,7 @@ muhammad nurcahyo pratomo
 ```
 #### Copyright
 ```html
-Powered By *JowoScript Technology
+Powered By *JowoScript Technology and *JowoStyle Technology
 ```
 #### License
-Licensed free under privilege of author and creator
+Licensed under privilege of creator technology
