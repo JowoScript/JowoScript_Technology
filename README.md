@@ -8,7 +8,7 @@
 ```html
 /*
  *
- * @jowo.version              : xx.xx.xx (JSRevamp Mission)
+ * @jowo.version              : xx.xx.xx (JSRevamp - 75Revamp Mission Checkmate).
  * @jowo.creator              : Muhammad Nurcahyo Pratomo
  * @jowo.author               : Muhammad Nurcahyo Pratomo
  * @jowo.founder              : Muhammad Nurcahyo Pratomo
@@ -18,10 +18,13 @@
  * @jowo.copyright            : Copyright 2021 - 2022 JowoScript Technology. All rights reserved.
  * @jowo.architect_technology : Muhammad Nurcahyo Pratomo
  *
- * Licensed free under privilege of author and creator
- * Copyright technology protected by intellectual property rights in underground
+ * This technology is not for sale unilaterally without the permission of the creator 
+ * and it is strictly forbidden to change the content of the source code without the permission of the creator technology.
+ * 
+ * Licensed under privilege of author and creator
+ * Copyright technology protected by intellectual property rights in underground.
  *
- * Protected Code Compiler Language Encryption end to end.
+ * Protected Code Compiler Language Encryption end to end by Muhammad Nurcahyo Pratomo.
  * 
  * [*JowoScript Technology Made By Muhammad Nurcahyo Pratomo and Technology Under of Muhammad Nurcahyo Pratomo]
  * 
