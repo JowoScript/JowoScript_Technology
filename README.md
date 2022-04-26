@@ -8,15 +8,14 @@
 ```html
 /*
  *
- * @jowo.version              : xx.xx.xx (JSRevamp - 75Revamp Mission Checkmate).
- * @jowo.creator              : Muhammad Nurcahyo Pratomo
- * @jowo.author               : Muhammad Nurcahyo Pratomo
- * @jowo.founder              : Muhammad Nurcahyo Pratomo
- * @jowo.license              : Licensed free under privilege of author and creator
- * @jowo.description          : JowoScript Technology is cross platform, small size and faster
- * @jowo.technology           : JowoScript Technology
- * @jowo.copyright            : Copyright 2021 - 2022 JowoScript Technology. All rights reserved.
- * @jowo.architect_technology : Muhammad Nurcahyo Pratomo
+ * @jowo.version        : xx.xx.xx (JSRevamp - 75Revamp Mission Checkmate).
+ * @jowo.creator        : Muhammad Nurcahyo Pratomo
+ * @jowo.author         : Muhammad Nurcahyo Pratomo
+ * @jowo.founder        : Muhammad Nurcahyo Pratomo
+ * @jowo.license        : Licensed free under privilege of author and creator
+ * @jowo.description	: *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
+ * @jowo.technology     : *JowoScript Technology and *JowoStyle Technology
+ * @jowo.copyright      : Copyright 2021 - 2022 *JowoScript Technology and *JowoStyle Technology. All rights reserved.
  *
  * This technology is not for sale unilaterally without the permission of the creator 
  * and it is strictly forbidden to change the content of the source code without the permission of the creator technology.
