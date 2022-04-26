@@ -36,7 +36,8 @@ name attribute		: mnp("name*object"), mnp("name^object"), mnp("name@object");
 array of attribute 	: mnp("[ jowo*object, [jowo*object], element[attribute], node[node] ]")	mnp("element[attribute="value"], [attribute="value"], [attribute="value"] [attribute]");
 array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pseudo object:pseudo ");
 
-https://www.facehom.com
+More Information you can look example at:
+<b>https://www.facehom.com</b>
 ```
 #### Architecture of jowoscript technology
 <details>
