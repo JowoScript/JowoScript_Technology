@@ -5,7 +5,8 @@
      height="275px" width="275px"></img>
 </a>
 
-##### *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
+##### *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
+##### *JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology (build with 💓🦄)
 <details>
 <summary>Support Technology :</summary>
 	
