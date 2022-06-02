@@ -1,5 +1,7 @@
 <a href="https://www.facehom.com/" target="_self">
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/icon.png" title="*JowoScript Technology and *JowoStyle Technology" height="275px" width="275px" height="275px"></img>
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/icon.png" 
+     title="*JowoScript Technology and *JowoStyle Technology"
+     height="275px" width="275px"></img>
 </a>
 
 ##### *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
