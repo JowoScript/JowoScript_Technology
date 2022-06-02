@@ -212,7 +212,7 @@ muhammad nurcahyo pratomo
 ```
 #### Copyright
 ```html
-Powered By *JowoScript Technology and *JowoStyle Technology
+*JowoScript Technology and *JowoStyle Technology
 ```
 #### License
 Licensed under privilege of creator technology
