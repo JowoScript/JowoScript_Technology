@@ -32,6 +32,7 @@
  * @jowo.version        : xx.xx.xx (JSRevamp Mission).
  * @jowo.owner        	: Muhammad Nurcahyo Pratomo
  * @jowo.creator	: Muhammad Nurcahyo Pratomo
+ * @jowo.architect	: Muhammad Nurcahyo Pratomo
  * @jowo.author         : Muhammad Nurcahyo Pratomo
  * @jowo.founder        : Muhammad Nurcahyo Pratomo 
  * @jowo.developer	: Muhammad Nurcahyo Pratomo 
