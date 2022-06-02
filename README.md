@@ -68,15 +68,13 @@ array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pse
 More Information you can look example at:
 https://www.facehom.com
 ```
-
-<br><br>
+<br>
 <div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
 <details>
 <summary>Click to view image</summary>	
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology-version 0.2.1.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
 </details>
-<br><br>
-
+<br>
 <div align="center"><strong>Installation information</strong></div>
 <details>
 <summary>Installation iOS - MacOS</summary>
@@ -207,8 +205,7 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 </html>
 ```
 </details>
-
-<br><br>
+<br>
 #### Creator
 ```html
 muhammad nurcahyo pratomo
