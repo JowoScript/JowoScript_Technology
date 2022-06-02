@@ -39,7 +39,7 @@
  * @jowo.license        : Licensed under privilege of creator technology (How to get token license contact email cohayfun@gmail).
  * @jowo.description	: *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
  * @jowo.technology     : *JowoScript Technology and *JowoStyle Technology
- * @jowo.copyright      : Copyright 2021 - 2022 *JowoScript Technology and *JowoStyle Technology. All rights reserved.
+ * @jowo.copyright      : Copyright 2021 - No Limited. *JowoScript Technology and *JowoStyle Technology. All rights reserved.
  *
  * This technology is not for sale unilaterally without the permission of the creator 
  * and it is strictly forbidden to change the content of the source code without the permission of the creator technology.
