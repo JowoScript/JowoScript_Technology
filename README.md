@@ -10,6 +10,8 @@
 <strong>
 	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
 </strong>
+</div>
+<div align="center">	
 <strong>
 	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology
 </strong>
