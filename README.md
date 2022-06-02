@@ -1,6 +1,7 @@
 <a href="https://www.facehom.com/" target="_self">
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/icon.png" 
      title="*JowoScript Technology and *JowoStyle Technology"
+     alt="*JowoScript Technology and *JowoStyle Technology"
      height="275px" width="275px"></img>
 </a>
 
