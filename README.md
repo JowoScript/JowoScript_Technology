@@ -30,10 +30,10 @@
 /*
  *
  * @jowo.version        : xx.xx.xx (JSRevamp Mission).
- * @jowo.creator        : Muhammad Nurcahyo Pratomo
+ * @jowo.owner        	: Muhammad Nurcahyo Pratomo
+ * @jowo.creator	: Muhammad Nurcahyo Pratomo
  * @jowo.author         : Muhammad Nurcahyo Pratomo
- * @jowo.founder        : Muhammad Nurcahyo Pratomo
- * @jowo.owner		: Muhammad Nurcahyo Pratomo
+ * @jowo.founder        : Muhammad Nurcahyo Pratomo 
  * @jowo.license        : Licensed under privilege of creator technology (How to get token license contact email cohayfun@gmail).
  * @jowo.description	: *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
  * @jowo.technology     : *JowoScript Technology and *JowoStyle Technology
