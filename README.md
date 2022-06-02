@@ -25,7 +25,7 @@
 	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
 </strong>
 </div>
-<br><br>
+<br>
 <div align="center">	
 <strong>
 	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology (build with 💓🦄)
@@ -42,7 +42,6 @@
 
 ```html
 /*
- *
  * @jowo.version        : xx.xx.xx (JSRevamp Mission).
  * @jowo.owner        	: Muhammad Nurcahyo Pratomo
  * @jowo.creator	: Muhammad Nurcahyo Pratomo
@@ -54,18 +53,8 @@
  * @jowo.description	: *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄).
  * @jowo.technology     : *JowoScript Technology and *JowoStyle Technology
  * @jowo.copyright      : Copyright 2021 - No Limited. *JowoScript Technology and *JowoStyle Technology. All rights reserved.
- *
- * This technology is not for sale unilaterally without the permission of the creator 
- * and it is strictly forbidden to change the content of the source code without the permission of the creator technology.
- * 
- * Licensed under privilege of author and creator
- * Copyright technology protected by intellectual property rights in underground.
- *
- * Protected Code Compiler Language Encryption end to end by Muhammad Nurcahyo Pratomo.
- * 
- * [*JowoScript Technology Made By Muhammad Nurcahyo Pratomo and Technology Under of Muhammad Nurcahyo Pratomo]
- * 
  */
+
 Example :
 mnp attribute		: mnp("mnp^object"), jowo("mnp^object"), mnp("^object"), jowo("^object");
 jowo attribute		: mnp("jowo*object"), jowo("jowo*object"), mnp("*object"), jowo("*object");
