@@ -1,16 +1,24 @@
+<div align="center">
 <a href="https://www.facehom.com/" target="_self">
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/icon.png" 
      title="*JowoScript Technology and *JowoStyle Technology"
-     alt="*JowoScript Technology and *JowoStyle Technology"
-     height="275px" width="275px"></img>
+     alt="*JowoScript Technology and *JowoStyle Technology"     
+     height="150px" width="150px"></img>
 </a>
-
-##### *JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
-##### *JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology (build with 💓🦄)
+</div>
+<div align="center">
+<strong>
+	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
+</strong>
+<strong>
+	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology
+</strong>
+</div>
 <details>
 <summary>Support Technology :</summary>
-	
+<strong>	
 <ul><li><bold>*JowoScript Technology build with bytecode concept with methode Just In Time (JIT) and writing in notepad.</bold></li><li><bold>*JowoStyle Technology build with core of computation style concept with methode Just In Time (JIT) and writing in notepad.</bold></li><li>Auto compiler file extension *.jowo</li><li>Auto compiler file extension *.jawa</li><li>Auto compiler file extension *.js3</li><li>Auto compiler file extension *.jss</li><li>Support TypeScript above version 1.0.0 auto compiler file *.ts (the mean is a good combination for each other to make enterprise systems or other like Ai, ML, AR, VR, etc in the future) I call this the Checkmate</li><li>Dive Deeper JowoStyle Runtimes of compiler type, condition, utility inside file extension *.jss or *.js3 and application/jowostyle</li><li>Dive Deeper JowoScript Runtimes of compiler type, condition, utility inside file extension *.jowo and application/jowoscript</li><li>Encryption end to end (Meaning i.e is that all data linked to jowoscript will be automatically encrypted with source code base)</li><li>JowoScript Technology cannot be detected by third-party technology or the like because the source code of JowoScript Technology is end-to-end encryption, meaning that it is not easily read by bad hackers or cybercriminals.</li><li>Very easy to install on multiplatform servers to deploy because it is a cross platform with javascript technology standard</li><li>Responsive mode user interface (Meaning i.e. when your design is in tablet mode, mobile or phone mode, television mode, LCD(Liquid Crystal Display) mode and laptop mode)</li><li>Cross platform (For example, a cross-platform application may run on Microsoft Mobile, Microsoft Windows, Android, z/OS, Linux OS, Unix OS, iOS and macOS)</li><li>Smart automatic detection error in javascript engine</li><li>Smart automatic detection error in jowoscript engine</li><li>Smart automatic jowoscript in Java Enterprise Edition (JEE)</li><li>Handling array of objects and decided multiple of attributes and pseudo</li><li>Licensed under privilege of creator technology (How to get token license contact email cohayfun@gmail)</li></ul>
+</strong>
 </details>
 
 ```html
@@ -49,15 +57,13 @@ array of pseudo		: mnp("[ element:pseudo, node:pseudo ], element:pseudo node:pse
 More Information you can look example at:
 https://www.facehom.com
 ```
-#### Architecture of jowoscript technology
+<div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
 <details>
-<summary>Click to view image</summary>
-	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology-version 0.2.1.png" title="Architecture of *JowoScript Technology">
-
+<summary>Click to view image</summary>	
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology-version 0.2.1.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
 </details>
 
-#### Installation information
+<div align="center"><strong>Installation information</strong></div>
 <details>
 <summary>Installation iOS - MacOS</summary>
 	
