@@ -8,10 +8,24 @@
 </div>
 <div align="center">
 <strong>
+	*jS Technology
+</strong>
+<br>
+<strong>
+	*JowoScript Technology and *JowoStyle Technology
+</strong>
+<br>
+<strong>
+	Introduction
+</strong>
+</div>
+<br><br>
+<div align="center">
+<strong>
 	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
 </strong>
-<br><br>
 </div>
+<br><br>
 <div align="center">	
 <strong>
 	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology (build with 💓🦄)
