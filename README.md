@@ -10,6 +10,7 @@
 <strong>
 	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
 </strong>
+<br><br>
 </div>
 <div align="center">	
 <strong>
