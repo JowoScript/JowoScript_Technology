@@ -221,7 +221,7 @@ Muhammad Nurcahyo Pratomo
 ```
 #### Copyright
 ```html
-*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology
+PT JowoScript Technology Indonesia
 ```
 #### License
 Licensed under privilege of creator technology
