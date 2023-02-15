@@ -215,7 +215,7 @@ muhammad nurcahyo pratomo
 ```
 #### Copyright
 ```html
-*JowoScript Technology and *JowoStyle Technology
+JowoScript | *JowoStyle | Jowo Kingdom Machine
 ```
 #### License
 Licensed under privilege of creator technology
