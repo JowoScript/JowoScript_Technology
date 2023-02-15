@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://www.facehom.com/" target="_self">
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/iconJS.png" 
-     title="JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"
-     alt="JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"     
+     title="*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"
+     alt="*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"     
      height="150px" width="150px"></img>
 </a>
 </div>
@@ -12,7 +12,7 @@
 </strong>
 <br>
 <strong>
-	JowoScript | *JowoStyle | Jowo Kingdom Machine
+	*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology
 </strong>
 <br>
 <strong>
@@ -215,7 +215,7 @@ muhammad nurcahyo pratomo
 ```
 #### Copyright
 ```html
-JowoScript | *JowoStyle | Jowo Kingdom Machine
+*JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology
 ```
 #### License
 Licensed under privilege of creator technology
