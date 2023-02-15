@@ -1,8 +1,8 @@
 <div align="center">
 <a href="https://www.facehom.com/" target="_self">
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/icon.png" 
-     title="*JowoScript Technology and *JowoStyle Technology"
-     alt="*JowoScript Technology and *JowoStyle Technology"     
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/iconJS.png" 
+     title="JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"
+     alt="JowoScript | *JowoStyle | Jowo Kingdom Machine - *jS Technology"     
      height="150px" width="150px"></img>
 </a>
 </div>
@@ -12,7 +12,7 @@
 </strong>
 <br>
 <strong>
-	*JowoScript Technology and *JowoStyle Technology
+	JowoScript | *JowoStyle | Jowo Kingdom Machine
 </strong>
 <br>
 <strong>
@@ -22,13 +22,19 @@
 <br><br>
 <div align="center">
 <strong>
-	*JowoScript Technology is undefined technology, typing less, compiler language, complex structure, small size and faster (build with 💓🦄)
+	*JowoScript Technology is undefined technology, typing less, compile language, complex structure, small size and faster
 </strong>
 </div>
 <br>
 <div align="center">	
 <strong>
-	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology (build with 💓🦄)
+	Jowo Kingdom Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
+</strong>
+</div>
+<br>
+<div align="center">
+<strong>
+	Jowo Kingdom Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
 </strong>
 </div>
 <br><br>
