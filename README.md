@@ -215,9 +215,9 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 ```
 </details>
 
-#### Creator
+#### Creator | Architecture Technology of *JowoScript, JowoStyle and Jowo Kindom Machine
 ```html
-muhammad nurcahyo pratomo
+Muhammad Nurcahyo Pratomo
 ```
 #### Copyright
 ```html
