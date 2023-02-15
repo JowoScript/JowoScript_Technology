@@ -40,8 +40,10 @@
 <br><br>
 
 <details>
-<summary><b>Support Technology :</b></summary>	
+<summary><b>Support Technology :</b></summary>
+<div align="justify">
 <ul><li>Auto compile and dive deeper JowoScript of compile inside file extension *.js or *.jowo with type of application/jowoscript or text/jowoscript</li><li>Auto compile and dive deeper JowoStyle of compile inside file extension *.jss or *.js3 with type of application/jowostyle or text/jowostyle</li><li>JowoScript Technology and JowoStyle Technology undefined technology the mean is cannot be detected by third-party technology or the like because the source code of JowoScript Technology is end-to-end encryption, meaning that it is not easily read by bad hackers or cybercriminals.</li><li>Very easy to install on multiplatform servers to deploy because it is a native technology with javascript technology standard</li><li>Support TypeScript above version 1.0.0 auto compile file *.ts</li><li>Responsive mode user interface (Meaning i.e. when your design is in tablet mode, mobile or phone mode, television mode, LCD(Liquid Crystal Display) mode and laptop mode)</li><li>Native platform (For example, a cross-platform application may run on Microsoft Mobile, Microsoft Windows, Android, z/OS, Linux OS, Unix OS, iOS and macOS)</li><li>Smart automatic detection error in javascript engine</li><li>Smart automatic detection error in jowoscript engine</li><li>Handling array of objects and decided multiple of attributes and pseudo</li></ul>
+</div>
 </details>
 
 ```html
