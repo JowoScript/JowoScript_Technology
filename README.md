@@ -54,8 +54,6 @@
  * @jowo.founder        : Muhammad Nurcahyo Pratomo 
  * @jowo.developer	: Muhammad Nurcahyo Pratomo 
  * @jowo.license        : Licensed under privilege of creator technology (How to get token license contact email cohayfun@gmail).
- * @jowo.technology     : *JowoScript Technology and *JowoStyle Technology
- * @jowo.copyright      : Copyright 2021 - No Limited. *JowoScript Technology and *JowoStyle Technology. All rights reserved.
  */
 
 Example :
