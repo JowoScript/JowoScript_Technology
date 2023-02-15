@@ -28,7 +28,7 @@
 <br>
 <div align="center">	
 <strong>
-	Jowo Kingdom Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
+	*JowoStyle Technology is undefined technology for a pattern core of computation style language used for describing the presentation of *JowoScript Technology
 </strong>
 </div>
 <br>
