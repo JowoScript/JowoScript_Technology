@@ -37,6 +37,14 @@
 	Jowo Kingdom Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
 </strong>
 </div>
+<br>
+<div align="center">
+<strong>
+	Java swing is old concept. The new is jowo wayang.
+	<br>
+	This only work in jowo kingdom machine inheritance of wayang.
+</strong>
+</div>
 <br><br>
 
 <details>
