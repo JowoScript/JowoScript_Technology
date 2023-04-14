@@ -80,6 +80,12 @@ More Information you can look example at:
 https://www.facehom.com
 ```
 <br>
+<div align="center"><strong>The concept universe of Jowo Kingdom Machine</strong></div>
+<details>
+<summary>Click to view image</summary>	
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/The concept universe of jowo kingdom machine.png" title="Architecture of Jowo Kindom Machine">
+</details>
+<br>
 <div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
 <details>
 <summary>Click to view image</summary>	
