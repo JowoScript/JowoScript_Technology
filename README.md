@@ -86,16 +86,16 @@ https://www.facehom.com
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/The concept universe of jowo kingdom machine.png" title="Architecture of Jowo Kindom Machine">
 </details>
 <br>
-<div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
-<details>
-<summary>Click to view image</summary>	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
-</details>
-<br>
 <div align="center"><strong>Architecture of Jowo Kindom Machine</strong></div>
 <details>
 <summary>Click to view image</summary>	
 <img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowo kingdom machine.png" title="Architecture of Jowo Kindom Machine">
+</details>
+<br>
+<div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
+<details>
+<summary>Click to view image</summary>	
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
 </details>
 <br>
 <div align="center"><strong>Installation information</strong></div>
