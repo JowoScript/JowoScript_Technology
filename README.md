@@ -89,13 +89,13 @@ https://www.facehom.com
 <div align="center"><strong>Architecture of Jowo Kindom Machine</strong></div>
 <details>
 <summary>Click to view image</summary>	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowo kingdom machine.png" title="Architecture of Jowo Kindom Machine">
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowo kingdom machine.0.1.0.png" title="Architecture of Jowo Kindom Machine">
 </details>
 <br>
 <div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
 <details>
 <summary>Click to view image</summary>	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowoscript technology.4.0.0.png" title="Architecture of *JowoScript Technology and *JowoStyle Technology">
 </details>
 <br>
 <div align="center"><strong>Installation information</strong></div>
@@ -116,7 +116,7 @@ class ViewController: UIViewController, WKUIDelegate {
     }
     override func viewDidLoad() {
         super.viewDidLoad()        
-        let myURL = URL(string:"jowo-script.js")
+        let myURL = URL(string:"jowo-script.jowo")
         let myRequest = URLRequest(url: myURL!)
         webView.load(myRequest) //Load from url base webview class
 	webView.loadHTMLString("<script>jowo.technology</script>", baseURL: myURL)
@@ -137,7 +137,7 @@ public class JSTopHeadDynamicInclude extends BaseDynamicInclude {
 	public void include(HttpServletRequest request, HttpServletResponse response, String key)
 		throws IOException {
 		PrintWriter printWriter = response.getWriter();
-		String content = "<script href=\"http://localhost:8080/../../js/jowo-script.js\" type = \"text/javascript\" />";
+		String content = "<script href=\"http://localhost:8080/../../js/jowo-script.jowo\" type = \"text/javascript\" />";
 		String jowoScript = "jowo.technology" type = \"text/javascript\" />";
 		printWriter.println(jowoScript);
 		//In console IDE like eclipse, rational application developer, jetbrains, netbeans, browser environment, etc. 
@@ -156,7 +156,7 @@ Liferay Framework, More information you can look at [here](https://help.liferay.
 	
 ```javascript
 <zk>
-<script type="text/javascript" src="jowo-script.js"></script>
+<script type="text/javascript" src="jowo-script.jowo"></script>
 <window title="sample jowo script" border="none" width="100%" closable="true">	
 	<script type="text/javascript">
 		jowo.technology
@@ -170,7 +170,7 @@ Liferay Framework, More information you can look at [here](https://help.liferay.
 <summary>Installation Android</summary>
 	
 ```java
-webview.loadDataWithBaseURL("file:///android_asset/javascript/jowo-script.js", page, "text/javascript", null, null);
+webview.loadDataWithBaseURL("file:///android_asset/javascript/jowo-script.jowo", page, "text/javascript", null, null);
 ```
 Android, More information you can look at [here](https://developer.android.com/guide/webapps/webview#kotlin)
 </details>
@@ -188,7 +188,7 @@ using System;
 using System.Web;
 using System.Web.UI;
 using System.Security.Permissions;
-[assembly: WebResource("Samples.AspNet.CS.Controls.jowo-script.js", "application/x-javascript")]
+[assembly: WebResource("Samples.AspNet.CS.Controls.jowo-script.jowo", "application/x-javascript")]
 namespace Samples.AspNet.CS.Controls
 {
     [AspNetHostingPermission(SecurityAction.Demand, Level = AspNetHostingPermissionLevel.Minimal)]
@@ -209,7 +209,7 @@ Microsoft DOT NET, More information you can look at [here](https://docs.microsof
 ```html
 <html>
 <head>
-<script type="text/javascript" src="jowo-script.js"></script>
+<script type="text/javascript" src="jowo-script.jowo"></script>
 </head>
 <body>
 	<script type="text/jowoscript">
