@@ -89,7 +89,7 @@ https://www.facehom.com
 <div align="center"><strong>Architecture of Jowo Kindom Machine</strong></div>
 <details>
 <summary>Click to view image</summary>	
-<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowo kingdom machine.0.1.0.png" title="Architecture of Jowo Kindom Machine">
+<img src="https://github.com/JowoScript/JowoScript_Technology/blob/core/architecture of jowo kingdom machine.010.png" title="Architecture of Jowo Kindom Machine">
 </details>
 <br>
 <div align="center"><strong>Architecture of *JowoScript Technology and *JowoStyle Technology</strong></div>
