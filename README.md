@@ -34,15 +34,15 @@
 <br>
 <div align="center">
 <strong>
-	Jowo Kingdom Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
+	Jowo Virtual Machine is a new technology with new methods to advancing complex data scientists, advancing complex data processing, and advancing complex enterprise applications
 </strong>
 </div>
 <br>
 <div align="center">
 <strong>
-	Java swing is old concept. The new is jowo wayang.
+	JavaScript and Java Virtual Machine is old concept. The new is JowoScript and Jowo Virtual Machine the powerfull of native code and native jowo and super power of new technology concept.
 	<br>
-	This only work in jowo kingdom machine inheritance of wayang.
+	This only work in jowoscript and jowo virtual machine inheritance
 </strong>
 </div>
 <br><br>
