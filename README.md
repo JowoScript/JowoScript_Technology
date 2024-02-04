@@ -58,7 +58,7 @@
 
 ```html
 /*
- * @jowo.version        : xx.xx.xx (JSRevamp Mission).
+ * @jowo.version        : xx.xx.xx
  * @jowo.owner        	: Muhammad Nurcahyo Pratomo
  * @jowo.creator	: Muhammad Nurcahyo Pratomo
  * @jowo.architect	: Muhammad Nurcahyo Pratomo
