@@ -42,6 +42,8 @@
 <strong>
 	JavaScript and Java Virtual Machine is old concept. The new is JowoScript and Jowo Virtual Machine the powerfull of native code and native jowo and super power of new technology concept.
 	<br>
+	The intellectual patent by Muhammad Nurcahyo Pratomo cannot be contested by any party, either in the future or now
+	<br>
 	This only work in jowoscript and jowo virtual machine inheritance
 </strong>
 </div>
